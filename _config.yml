@@ -7,3 +7,5 @@ description: "First post."
 
 # Build settings
 remote_theme: jekyll/minima
+
+theme: jekyll-theme-midnight
